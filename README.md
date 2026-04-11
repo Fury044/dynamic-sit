@@ -2,6 +2,8 @@
 
 A highly precise, raycast-based "sit-anywhere" system designed for FiveM servers (Qbox/QB-Core/Standalone). This system allows players to interact naturally with the world by detecting surfaces like walls, benches, ledges, and even small objects like trash cans.
 
+##Discord : https://discord.gg/9gswanHEX3
+
 ## 🚀 Features
 
 - **Dynamic Surface Detection**: Uses multi-height vertical sweeps and thick capsule scanning to find the perfect sitting spot.
